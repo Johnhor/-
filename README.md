@@ -13,3 +13,7 @@ http://blog.inside-media.kz/izuchaem-bem-metodologiyu-yandeksa.html
 <h3>Блог по фронтенд разработке (как начать проект)</h3>
 
 https://apmyp.pro/blog/
+
+Очень полезная документация
+
+https://github.com/yoksel/common-words слова для наименования классов
