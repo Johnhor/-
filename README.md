@@ -14,6 +14,6 @@ http://blog.inside-media.kz/izuchaem-bem-metodologiyu-yandeksa.html
 
 https://apmyp.pro/blog/
 
-Очень полезная документация
+<h3>Очень полезная документация</h3>
 
 https://github.com/yoksel/common-words слова для наименования классов
