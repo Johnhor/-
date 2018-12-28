@@ -14,6 +14,8 @@ http://blog.inside-media.kz/izuchaem-bem-metodologiyu-yandeksa.html
 
 https://e-planet.ru/company/blog/bitva-s-bem-10-samyh-rasprostranennyh-problem-i-sposoby-ih-reshenija-chast-1.html
 
+https://dialweb.ru/blog/bem-kak-kontseptsiya-verstki/
+
 <h3>Блог по фронтенд разработке (как начать проект)</h3>
 
 https://apmyp.pro/blog/
