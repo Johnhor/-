@@ -2,6 +2,8 @@
 
 http://phamap.github.io/bem-card-world/
 
+https://test.glivera.com/side/simushka/index.html#
+
 <h3>Документация по БЭМ</h3>
 
 https://nicothin.pro/idiomatic-pre-CSS/ как работать с БЭМ и препроцессорами
