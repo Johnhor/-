@@ -23,3 +23,5 @@ https://apmyp.pro/blog/
 <h3>Очень полезная документация</h3>
 
 https://github.com/yoksel/common-words слова для наименования классов
+
+https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example/lessons/1#  уроки по vue.js
