@@ -37,3 +37,5 @@ https://html5book.ru/javascript-jquery/
 https://learn.javascript.ru/
 
 https://www.codewars.com/
+
+https://www.youtube.com/watch?v=zjVFuft1O2Y&list=PLyuRouwmQCjkYdv4VjuIbvcMZVWSdOm58 
