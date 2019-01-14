@@ -25,3 +25,13 @@ https://apmyp.pro/blog/
 https://github.com/yoksel/common-words слова для наименования классов
 
 https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example/lessons/1#  уроки по vue.js
+
+<h3>Теория и практические уроки по JavaScript</h3>
+
+http://javascript.kiev.ua/  - уроки и задачи по жс
+
+https://learn.freecodecamp.org/
+
+https://html5book.ru/javascript-jquery/
+
+https://learn.javascript.ru/
