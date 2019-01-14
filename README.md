@@ -24,7 +24,6 @@ https://apmyp.pro/blog/
 
 https://github.com/yoksel/common-words слова для наименования классов
 
-https://coursetro.com/courses/23/Vue-Tutorial-in-2018---Learn-Vue.js-by-Example/lessons/1#  уроки по vue.js
 
 <h3>Теория и практические уроки по JavaScript</h3>
 
@@ -39,3 +38,7 @@ https://learn.javascript.ru/
 https://www.codewars.com/
 
 https://www.youtube.com/watch?v=zjVFuft1O2Y&list=PLyuRouwmQCjkYdv4VjuIbvcMZVWSdOm58 
+
+<h3>Теория и практические уроки по Vue</h3>
+
+https://www.youtube.com/watch?v=diPpV20TOUs&index=1&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel
