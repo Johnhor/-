@@ -35,3 +35,5 @@ https://learn.freecodecamp.org/
 https://html5book.ru/javascript-jquery/
 
 https://learn.javascript.ru/
+
+https://www.codewars.com/
