@@ -46,3 +46,5 @@ https://www.youtube.com/watch?v=diPpV20TOUs&index=1&list=PLLvTAhHe8AYCf1RDc2l2ZW
 <h1>Flexbox</h1>
 
 https://keynikell.ru/polnoe-rukovodstvo-po-flexbox-uchimsja-na-primerah
+
+https://github.com/evgenyrodionov/flexboxgrid2/blob/master/src/flexboxgrid2.css
