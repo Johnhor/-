@@ -42,3 +42,7 @@ https://www.youtube.com/watch?v=zjVFuft1O2Y&list=PLyuRouwmQCjkYdv4VjuIbvcMZVWSdO
 <h3>Теория и практические уроки по Vue</h3>
 
 https://www.youtube.com/watch?v=diPpV20TOUs&index=1&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel
+
+<h1>Flexbox</h1>
+
+https://keynikell.ru/polnoe-rukovodstvo-po-flexbox-uchimsja-na-primerah
