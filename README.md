@@ -50,3 +50,5 @@ https://keynikell.ru/polnoe-rukovodstvo-po-flexbox-uchimsja-na-primerah
 https://github.com/evgenyrodionov/flexboxgrid2/blob/master/src/flexboxgrid2.css
 
 https://medium.com/webbdev/flex-a45f4de4c6b0
+
+https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/
