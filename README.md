@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=zjVFuft1O2Y&list=PLyuRouwmQCjkYdv4VjuIbvcMZVWSdO
 
 https://www.youtube.com/watch?v=diPpV20TOUs&index=1&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel
 
+https://laracasts.com/series/learn-vue-2-step-by-step
+
 <h1>Flexbox</h1>
 
 https://keynikell.ru/polnoe-rukovodstvo-po-flexbox-uchimsja-na-primerah
