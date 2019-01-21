@@ -45,6 +45,8 @@ https://www.youtube.com/watch?v=diPpV20TOUs&index=1&list=PLLvTAhHe8AYCf1RDc2l2ZW
 
 https://laracasts.com/series/learn-vue-2-step-by-step
 
+https://laracasts.com/series/testing-vue
+
 <h1>Flexbox</h1>
 
 https://keynikell.ru/polnoe-rukovodstvo-po-flexbox-uchimsja-na-primerah
