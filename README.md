@@ -63,3 +63,9 @@ https://css-tricks.com/piecing-together-approaches-for-a-css-masonry-layout/
 <h1>Ajax</h1>
 
 https://www.youtube.com/watch?v=OO8C4InfQi0
+
+
+
+
+<h1>example</h1>
+http://qaru.site/questions/7062919/vuejs-how-to-filter-a-table-with-a-custom-filter
