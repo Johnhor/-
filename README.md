@@ -71,3 +71,5 @@ https://www.youtube.com/watch?v=OO8C4InfQi0
 http://qaru.site/questions/7062919/vuejs-how-to-filter-a-table-with-a-custom-filter
 
 https://itvdn.com/ru/specialities/frontend-developer
+
+https://ru-clip.net/video/hpJd2Cn7m3M/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-vue-js-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F.html
