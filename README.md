@@ -85,3 +85,4 @@ https://medium.com/@denny.headrick/pagination-in-vue-js-4bfce47e573b
 https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/?ct=t(hamail_20190115)
 https://medium.com/web-standards/toggle-buttons-a41388e80974?ct=t(hamail_20190115)  (переключатели)
 https://css-tricks.com/dry-state-switching-with-css-variables-fallbacks-and-invalid-values/?ct=t(hamail_20190115) (css карта)
+https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855 (css variables)
