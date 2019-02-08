@@ -83,3 +83,4 @@ https://medium.com/@denny.headrick/pagination-in-vue-js-4bfce47e573b
 <h1>Полезные сылки</h1>
 
 https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/?ct=t(hamail_20190115)
+https://medium.com/web-standards/toggle-buttons-a41388e80974?ct=t(hamail_20190115)  (переключатели)
