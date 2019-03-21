@@ -88,3 +88,6 @@ https://css-tricks.com/dry-state-switching-with-css-variables-fallbacks-and-inva
 https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855 (css variables)
 
 https://tproger.ru/video/building-vuejs-app/ (vue-example)
+
+полезные рабочие площадки
+https://avocode.com/team-collaboration
