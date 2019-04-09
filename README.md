@@ -91,3 +91,7 @@ https://tproger.ru/video/building-vuejs-app/ (vue-example)
 
 полезные рабочие площадки
 https://avocode.com/team-collaboration
+
+
+Горячие клавиши phpstorm
+https://github.com/lawejr/PhpStorm-hotkeys/blob/master/README.md
