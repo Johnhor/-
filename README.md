@@ -95,3 +95,17 @@ https://avocode.com/team-collaboration
 
 Горячие клавиши phpstorm
 https://github.com/lawejr/PhpStorm-hotkeys/blob/master/README.md
+
+
+<!DOCTYPE html>
+ <html>
+    <head>
+        <title>Examples</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+ <body>
+  </body>
+  </html>
