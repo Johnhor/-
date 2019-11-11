@@ -101,7 +101,7 @@ https://medium.com/@stasonmars/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B2%D0%B5%D1%81
 https://htmlacademy.ru/blog/useful/git/git-console - git job
 https://jakearchibald.github.io/svgomg/ - svg
 
-
+https://freefrontend.com/css-horizontal-menus/ - freefrontend - examples
 <!DOCTYPE html>
  <html>
     <head>
